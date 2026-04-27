@@ -1,0 +1,52 @@
+<footer id="contact" class="bg-gray-900 text-white py-12 px-6">
+    <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-12">
+        <div>
+            <h3 class="text-2xl font-bold text-yellow-500 mb-4 tracking-widest">SADIQ JEWELLERS</h3>
+            <p class="text-gray-400 mb-6 italic">"Jahan Aitmad hi Asli Sona Hai"</p>
+            
+            <div class="space-y-4">
+                <div class="flex items-start">
+                    <i class="fas fa-map-marker-alt text-yellow-500 mt-1 mr-4"></i>
+                    <p class="text-gray-300">
+                        Shop Address: 5A5/34, Sarafa Bazar,<br>
+                        Paposh Market, Nazimabad No. 5,<br>
+                        Karachi, Pakistan.
+                    </p>
+                </div>
+
+                <div class="flex items-center">
+                    <i class="fab fa-whatsapp text-green-500 mr-4 text-xl"></i>
+                    <div>
+                        <p class="text-xs text-gray-400 uppercase">WhatsApp 1</p>
+                        <a href="https://wa.me/923142758002" class="text-white hover:text-yellow-500 font-mono">0314-2758002</a>
+                    </div>
+                </div>
+
+                <div class="flex items-center">
+                    <i class="fab fa-whatsapp text-green-500 mr-4 text-xl"></i>
+                    <div>
+                        <p class="text-xs text-gray-400 uppercase">WhatsApp 2</p>
+                        <a href="https://wa.me/923102580930" class="text-white hover:text-yellow-500 font-mono">0310-2580930</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="text-center md:text-right">
+            <h4 class="text-xl font-bold mb-6">Hamare Designs Dekhein</h4>
+            <div class="flex justify-center md:justify-end space-x-6 text-3xl">
+                <a href="#" class="hover:text-yellow-500 transition-all"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="hover:text-yellow-500 transition-all"><i class="fab fa-facebook text-blue-600"></i></a>
+            </div>
+            <div class="mt-8">
+                <a href="https://www.google.com/maps/search/Paposh+Market+Nazimabad+No+5" target="_blank" class="inline-block border border-yellow-500 text-yellow-500 px-6 py-2 rounded hover:bg-yellow-500 hover:text-black transition">
+                    Find us on Maps
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="border-t border-gray-800 mt-10 pt-6 text-center text-gray-500 text-xs uppercase tracking-tighter">
+        &copy; 2026 Sadiq Jewellers. Purity Guaranteed.
+    </div>
+</footer>
